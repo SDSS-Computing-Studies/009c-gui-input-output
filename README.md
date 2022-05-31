@@ -1,5 +1,5 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #009c GUI Input and Output (Total Marks 8)
+### More GUI Input and Output (Total Marks 8)
 
 Objectives:
 * To create events triggered by buttons
