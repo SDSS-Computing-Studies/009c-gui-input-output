@@ -7,7 +7,7 @@ Objectives:
 
 
 
-### 1 Tasks
+### 2 Tasks
 
 ##### Task 1
 Heron's method is a way of calculating the area of a triangle if all 
@@ -26,3 +26,30 @@ tell the user that the area cannot be calculated from the information
 given.
 (6 points) 
 
+##### Task 2
+Having a computer solve problems the way that we might is a challenging
+task. Last assignment, you had a computer factor a trinomial using the
+quadratic formula.
+
+Today, try and solve the same problem, but using the method that we have
+been taught.
+
+There are 3 types of trinomials:
+* Difference of Squares
+* Trinomials starting with x^2
+* Trinomials starting with ax^2
+
+Write a program that uses a human approach to factoring.
+Example:
+To factor x^2 + bx + c, we first try to find all the pairs of
+factors that multiply to make c, and then choose the pair that
+adds to make b
+To factor ax^2 + bx + c, we first try to find all the pairs of
+factors that multiply to make ac, and then find the pair that adds
+to make b.  The trinomial is then decomposed to 4 terms and 
+is factored by grouping.
+
+This assignment is broken into 3 parts:
+* Identify and factor a difference of squares (easy)
+* Identify and factor an x^2 trinomial (moderate)
+* Identify and factor an ax^2 trinomial (challenging)
